@@ -1,4 +1,4 @@
-Lập trình trên thiết bị di động
+## Lập trình trên thiết bị di động
 -Trần Gia Bảo - 16520088
 -Nguyễn Tuấn Huy - 16520526
 -Trần Hoàng Kha - 16520549
@@ -6,14 +6,12 @@ Lập trình trên thiết bị di động
 
 ### Features
 
+- World Covid Situation
 - Daywise Cases
 - Lastest News
+- Safety Tips
 - Important Links.
 - Self Check-Ups.
-
-### Permissions
-
-- Location
 
 ### Screenshots
 
