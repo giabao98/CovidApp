@@ -14,10 +14,12 @@
 - Self Check-Ups.
 
 ### Screenshots
-![sc1]
-![sc2]
-![sc3]
-![sc4]
+
+![sc1] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s1.png)
+![sc2] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s2.png)
+![sc3] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s3.png)
+![sc4] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s4.png)
+
 ### APIS and Services:
 
 - [apify](api.apify.com/) - API
