@@ -15,10 +15,10 @@
 
 ### Screenshots
 
-![sc1] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s1.png)
-![sc2] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s2.png)
-![sc3] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s3.png)
-![sc4] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s4.png)
+![sc1] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s1.png?raw=true)
+![sc2] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s2.png?raw=true)
+![sc3] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s3.png?raw=true)
+![sc4] (https://github.com/giabao98/CovidApp/blob/master/screenshot/s4.png?raw=true)
 
 ### APIS and Services:
 
