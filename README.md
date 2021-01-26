@@ -1,8 +1,7 @@
 ## Lập trình trên thiết bị di động
--Trần Gia Bảo - 16520088
--Nguyễn Tuấn Huy - 16520526
--Trần Hoàng Kha - 16520549
-
+- Trần Gia Bảo - 16520088
+- Nguyễn Tuấn Huy - 16520526
+- Trần Hoàng Kha - 16520549
 
 ### Features
 
@@ -12,6 +11,10 @@
 - Safety Tips
 - Important Links.
 - Self Check-Ups.
+
+### Video Demo
+
+https://www.youtube.com/watch?v=FfHjt3YWYFw
 
 ### Screenshots
 
