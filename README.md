@@ -1,9 +1,10 @@
 ## Lập trình trên thiết bị di động
+
 - Trần Gia Bảo - 16520088
 - Nguyễn Tuấn Huy - 16520526
 - Trần Hoàng Kha - 16520549
 
-### Features
+### Tính Năng
 
 - World Covid Situation
 - Daywise Cases
@@ -11,6 +12,11 @@
 - Safety Tips
 - Important Links.
 - Self Check-Ups.
+
+### Thiết bị
+
+- Đã thử trên: pixel 3a XL API 29, sony Xperia XZ Android 8
+
 
 ### Video Demo
 
